@@ -24,6 +24,7 @@ Develop a predictive model that forecasts weekly sales and produces actionable i
 - What reorder points and safety stock levels are optimal for each store and department?
 
 **Methodology**
+
 **1. Data Sources**
 The project uses three CSV files from Kaggle’s Retail Data Analytics dataset:
 
